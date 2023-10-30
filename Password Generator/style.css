@@ -11,7 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(180deg, #f0ac00 50%, #050505 50%);
+  background-image: linear-gradient(to right, rgb(83, 219, 56), rgb(199, 28, 28) 50%, rgb(88, 64, 107) 50%, rgb(7, 1, 4));
 }
 
 .container {
